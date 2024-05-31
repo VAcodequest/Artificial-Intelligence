@@ -6,5 +6,11 @@ Contributing
 
 ◇ If you would like to contribute to this project, please fork the repository and create a pull request with your changes. Contributions are welcome!
 
+Projects Completed Till Now
 
+-- Artificial Intelligence
+
+◇ Project 1 - Classification using KNN 
+-
+-> This project applies K-Nearest Neighbors (KNN), Decision Tree, and Logistic Regression algorithms to classify species in the Iris dataset, demonstrating model setup, evaluation, and performance comparison.
 

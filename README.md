@@ -14,5 +14,5 @@ Machine Learning
 
 ◇ Project 1 - Classification using KNN 
 -
--> This project applies K-Nearest Neighbors (KNN), Decision Tree, and Logistic Regression algorithms to classify species in the Iris dataset, demonstrating model setup, evaluation, and performance comparison.
+> This project applies K-Nearest Neighbors (KNN), Decision Tree, and Logistic Regression algorithms to classify species in the Iris dataset, demonstrating model setup, evaluation, and performance comparison.
 

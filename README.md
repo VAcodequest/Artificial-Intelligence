@@ -10,7 +10,7 @@ Projects Completed Till Now
 
 Machine Learning 
 > Supervised Learning
----> Classification
+> Classification
 
 ◇ Project 1 - Classification using KNN 
 -

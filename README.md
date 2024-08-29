@@ -14,7 +14,7 @@ Machine Learning
 
 ◇ Project 1 - Wine Quality Prediction
 -
-This project applies K-Nearest Neighbors (KNN), Decision Tree, and Logistic Regression algorithms to classify species in the Iris dataset, demonstrating model setup, evaluation, and performance comparison.
+This project applies Logistic Regression, Random Forest, and Support Vector Machine (SVM) algorithms to predict wine quality, demonstrating model setup, evaluation, and performance comparison.
 - Filtered wine quality scores to include values between 3 and 8 and categorized them as 'low,' 'medium,' or 'high.'
 - One-hot encoded the quality labels for classification and standardized the features.
 - Trained a multinomial Logistic Regression model and evaluated it using a confusion matrix and classification report.

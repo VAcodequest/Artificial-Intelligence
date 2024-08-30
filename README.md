@@ -12,7 +12,7 @@ Machine Learning
 > Supervised Learning
 -- Classification
 
-# ◇ Project 1
+◇ ## Project 1
 
 # 🍷 Wine Quality Prediction
 

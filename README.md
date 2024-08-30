@@ -55,15 +55,6 @@ This project implements a comprehensive analysis to predict wine quality using t
 
 ## Model Evaluation Dashboard
 
-An interactive dashboard built using Dash that allows users to:
+This project also has an interactive dashboard built using Dash that allows users to:
 - Select a model (Logistic Regression, Random Forest, SVM) and view its Confusion Matrix or ROC Curve.
 - Compare model performance metrics through an easy-to-use interface.
-
-### Installation
-
-To run the project locally, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/wine-quality-prediction.git
-   cd wine-quality-prediction

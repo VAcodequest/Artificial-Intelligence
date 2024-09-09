@@ -58,3 +58,62 @@ This project implements a comprehensive analysis to predict wine quality using t
 This project also has an interactive dashboard built using Dash that allows users to:
 - Select a model (Logistic Regression, Random Forest, SVM) and view its Confusion Matrix or ROC Curve.
 - Compare model performance metrics through an easy-to-use interface.
+
+Machine Learning 
+> Supervised Learning
+-- Regression
+
+# 📈 Stock Price Prediction Using Machine Learning
+
+This project applies **Random Forest**, **Ridge Regression**, and **Gradient Boosting** to predict stock prices for **Apple Inc. (AAPL)**, showcasing model development, evaluation, and performance comparison.
+
+## Project Overview
+
+This project demonstrates a complete stock price prediction workflow using machine learning techniques. It integrates historical stock data and engineered technical indicators to train and evaluate multiple models.
+
+### Steps Taken
+
+1. **Data Preprocessing**
+   * Cleaned and standardized historical stock price data from **Yahoo Finance**.
+   * Removed missing values and handled data inconsistencies.
+   * Normalized stock price features to optimize model performance.
+
+2. **Feature Engineering**
+   * Computed key technical indicators:
+     * **Simple Moving Averages (SMA)**
+     * **Exponential Moving Averages (EMA)**
+     * **Bollinger Bands**
+     * **Relative Strength Index (RSI)**
+     * **Rate of Change (ROC)**
+     * **Lagged stock prices**
+
+3. **Model Development**
+   * **Random Forest**
+     * Trained a Random Forest Regressor.
+     * Analyzed feature importance to identify key predictors.
+   * **Ridge Regression**
+     * Trained a Ridge Regression model to capture linear trends.
+   * **Gradient Boosting**
+     * Implemented Gradient Boosting to optimize predictions through iterative boosting.
+
+4. **Model Evaluation**
+   * Calculated **Mean Squared Error (MSE)** and **R-squared (R²)** to evaluate model performance.
+   * **Random Forest** outperformed other models with the lowest MSE and highest R².
+   * Conducted a detailed comparison of the models to highlight their strengths and weaknesses.
+
+5. **Dashboard Implementation**
+   * Developed an interactive **Dash application** for real-time stock analysis and visualization.
+   * Features include dropdowns, radio buttons, and interactive graphs.
+   * Users can explore stock price predictions, technical indicators, and actual prices.
+
+6. **Issue Resolution**
+   * Addressed performance limitations by adjusting model hyperparameters.
+   * Implemented strategies for handling lag features and improving model accuracy.
+
+## Model Evaluation Dashboard
+
+This project also includes an interactive **Dash dashboard** that allows users to:
+* Visualize stock price predictions alongside technical indicators.
+* Compare model performance using **Random Forest**, **Ridge Regression**, and **Gradient Boosting**.
+* Explore key technical indicators like **SMA**, **EMA**, **Bollinger Bands**, and more.
+

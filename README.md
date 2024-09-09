@@ -63,6 +63,8 @@ Machine Learning
 > Supervised Learning
 -- Regression
 
+### ◇ Project 2
+
 # 📈 Stock Price Prediction Using Machine Learning
 
 This project applies **Random Forest**, **Ridge Regression**, and **Gradient Boosting** to predict stock prices for **Apple Inc. (AAPL)**, showcasing model development, evaluation, and performance comparison.

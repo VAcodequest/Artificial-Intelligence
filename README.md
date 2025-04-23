@@ -198,3 +198,50 @@ Life expectancy and socio-economic data collected from Japanese government stati
 
 ---
 
+## ◇ Project 6  
+**Spam Detection using Machine Learning and NLP**
+
+### Project Overview  
+This project focuses on identifying spam messages in SMS data using a combination of traditional machine learning algorithms and advanced NLP techniques. It includes preprocessing, TF-IDF vectorization, model training, and evaluation. The pipeline also extends to deep learning using BERT.
+
+### Features used include:  
+- Cleaned SMS text (lowercasing, punctuation removal, whitespace normalization)  
+- TF-IDF vector representations of messages  
+- Binary classification labels (`spam` or `ham`)
+
+### Models Applied:  
+- Naive Bayes  
+- Logistic Regression  
+- XGBoost  
+- BERT (via HuggingFace Transformers)
+
+### Steps Taken:  
+- Loaded and cleaned SMS text data  
+- Applied regular expression-based text cleaning  
+- Converted messages to numerical format using TF-IDF  
+- Trained and compared various ML models  
+- Evaluated performance using accuracy, precision, recall, and F1-score  
+- Integrated HuggingFace BERT for deep learning classification
+
+### Tools and Libraries Used:  
+
+- **Python Libraries:**
+  - `pandas` for data wrangling and transformation  
+  - `numpy` for numerical operations  
+  - `re` for text cleaning via regex  
+  - `matplotlib` and `seaborn` for visualizations  
+  - `scikit-learn` for modeling and evaluation  
+  - `xgboost` for boosting classifiers  
+  - `transformers` from HuggingFace for BERT  
+  - `datasets` for preparing and managing text data  
+
+- **Machine Learning Models:**
+  - Naive Bayes
+  - Logistic Regression
+  - XGBoost
+  - BERT (fine-tuned using HuggingFace)
+
+### Data Source  
+The dataset used is a publicly available SMS spam collection, which includes thousands of messages labeled as either spam or ham. It is commonly used for benchmarking text classification models.
+
+

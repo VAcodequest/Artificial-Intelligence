@@ -6,7 +6,7 @@
 
 Machine Learning 
 > Supervised Learning
--- Classification
+-- Regression
 
 ### ◇ Project 1
 
@@ -193,6 +193,10 @@ Machine learning models help identify the key drivers of longevity and provide p
 Life expectancy and socio-economic data collected from Japanese government statistics and public healthcare datasets.
 
 ---
+
+Machine Learning 
+> Supervised Learning
+-- Classification
 
 ## ◇ Project 6  
 # Spam Detection using Machine Learning and NLP

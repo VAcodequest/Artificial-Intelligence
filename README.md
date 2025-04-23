@@ -1,7 +1,6 @@
 # Artificial-Intelligence
 
 ◇ This particular Repository is for my projects. These projects showcase all that I know about AI.
--
 
 ## ◇ Projects Completed Till Now
 

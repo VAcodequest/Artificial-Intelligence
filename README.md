@@ -120,7 +120,7 @@ This project also includes an interactive **Dash dashboard** that allows users t
 * Explore key technical indicators like **SMA**, **EMA**, **Bollinger Bands**, and more.
 
 ## ◇ Project 3  
-🍱 **Airbnb Pricing Prediction using Machine Learning**
+# 🍱 **Airbnb Pricing Prediction using Machine Learning**
 
 ### Project Overview  
 This project focuses on predicting Airbnb listing prices by applying multiple machine learning models and performing extensive feature engineering to enhance predictive performance.
@@ -149,7 +149,7 @@ Airbnb listing data from the U.S., containing variables like:
 ---
 
 ## ◇ Project 4  
-🏢 **Energy Usage Prediction using Machine Learning**
+# 🏢 **Energy Usage Prediction using Machine Learning**
 
 ### Project Overview  
 This project aims to predict building energy usage (meter readings) by applying multiple regression-based models and powerful engineered features.
@@ -175,7 +175,7 @@ The dataset includes daily energy consumption and weather readings across multip
 ---
 
 ## ◇ Project 5  
-🗾 **Predicting Life Expectancy in Japanese Prefectures**
+# 🗾 **Predicting Life Expectancy in Japanese Prefectures**
 
 ### Project Overview  
 This project aims to understand and predict life expectancy across Japan’s prefectures using health, environmental, and economic indicators.
@@ -199,7 +199,7 @@ Life expectancy and socio-economic data collected from Japanese government stati
 ---
 
 ## ◇ Project 6  
-**Spam Detection using Machine Learning and NLP**
+# Spam Detection using Machine Learning and NLP
 
 ### Project Overview  
 This project focuses on identifying spam messages in SMS data using a combination of traditional machine learning algorithms and advanced NLP techniques. It includes preprocessing, TF-IDF vectorization, model training, and evaluation. The pipeline also extends to deep learning using BERT.

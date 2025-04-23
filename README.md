@@ -119,3 +119,82 @@ This project also includes an interactive **Dash dashboard** that allows users t
 * Compare model performance using **Random Forest**, **Ridge Regression**, and **Gradient Boosting**.
 * Explore key technical indicators like **SMA**, **EMA**, **Bollinger Bands**, and more.
 
+## ◇ Project 3  
+🍱 **Airbnb Pricing Prediction using Machine Learning**
+
+### Project Overview  
+This project focuses on predicting Airbnb listing prices by applying multiple machine learning models and performing extensive feature engineering to enhance predictive performance.
+
+The dataset includes key categorical and numerical attributes such as room type, neighbourhood group, availability, review scores, and host/booking characteristics that influence pricing.
+
+Advanced feature engineering techniques were used, including:
+- Ratio features (e.g., price per minimum night)
+- Host verification and booking flags
+- Log transformations
+- Property age and grouped listing insights
+
+A correlation matrix was generated to assess the strength of relationships between features and the target variable, helping to refine model inputs.
+
+Final models trained include:
+- Random Forest
+- XGBoost
+- LightGBM
+
+These were evaluated using RMSE and R² metrics. Random Forest performed best after tuning and feature selection.
+
+### Data Source  
+Airbnb listing data from the U.S., containing variables like:
+- `room_type`, `minimum_nights`, `host_identity_verified`, `cancellation_policy`, and `price`.
+
+---
+
+## ◇ Project 4  
+🏢 **Energy Usage Prediction using Machine Learning**
+
+### Project Overview  
+This project aims to predict building energy usage (meter readings) by applying multiple regression-based models and powerful engineered features.
+
+Key features include:
+- Numerical and environmental factors: air temperature, dew point, wind speed
+- Building-specific data like square footage and floor count
+
+Feature engineering included:
+- Interaction terms (e.g., temperature × building size)
+- Log and polynomial transformations
+- Aggregation and normalization of variables
+
+Models evaluated:
+- Linear Regression, Random Forest, Gradient Boosting, Decision Tree
+- KNeighbors Regressor, SVR, AdaBoost
+
+Model performance was measured using Mean Squared Error (MSE) and R². **Random Forest** achieved the best results with low error and high accuracy.
+
+### Data Source  
+The dataset includes daily energy consumption and weather readings across multiple commercial buildings.
+
+---
+
+## ◇ Project 5  
+🗾 **Predicting Life Expectancy in Japanese Prefectures**
+
+### Project Overview  
+This project aims to understand and predict life expectancy across Japan’s prefectures using health, environmental, and economic indicators.
+
+Features used include:
+- Number of physicians and hospitals
+- Healthcare expenditure
+- Income per capita
+- Educational attainment
+
+Objectives:
+- Perform EDA to explore relationships
+- Train regression models to predict life expectancy
+- Analyze feature importance and correlations
+
+Machine learning models help identify the key drivers of longevity and provide policy insights.
+
+### Data Source  
+Life expectancy and socio-economic data collected from Japanese government statistics and public healthcare datasets.
+
+---
+

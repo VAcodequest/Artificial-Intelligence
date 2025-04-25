@@ -12,7 +12,7 @@ Original file is located at
 
 This project aims to classify handwritten digits (0–9) using cutting-edge deep learning architecture: **Vision Transformers (ViT)**. While earlier models like SVMs, KNNs, CNNs, and Random Forests have shown high accuracy on this task, Vision Transformers offer a modern alternative that leverages self-attention mechanisms, originally introduced in natural language processing, for image classification.
 
-We compare this state-of-the-art method against other classical and deep learning models to observe how attention-based architectures perform in the domain of image recognition.
+I compare this state-of-the-art method against other classical and deep learning models to observe how attention-based architectures perform in the domain of image recognition.
 
 ---
 
@@ -24,9 +24,9 @@ We compare this state-of-the-art method against other classical and deep learnin
 
 ---
 
-### **Dataset**
+### **Digits Dataset**
 
-We use the **Digits dataset** available in `sklearn.datasets`. It contains 1,797 grayscale images of handwritten digits, each of size **8×8 pixels**, labeled from 0 to 9.
+I use the **Digits dataset** available in `sklearn.datasets`. It contains 1,797 grayscale images of handwritten digits, each of size **8×8 pixels**, labeled from 0 to 9.
 
 - **Training Samples:** 1,437  
 - **Testing Samples:** 360

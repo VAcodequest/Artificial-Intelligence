@@ -203,7 +203,7 @@ Machine Learning
 -- Classification
 
 ## ◇ Project 6  
-# Spam Detection using Machine Learning and NLP
+# 📨 Spam Detection using Machine Learning and NLP
 
 ### Project Overview  
 This project focuses on identifying spam messages in SMS data using a combination of traditional machine learning algorithms and advanced NLP techniques. It includes preprocessing, TF-IDF vectorization, model training, and evaluation. The pipeline also extends to deep learning using BERT.

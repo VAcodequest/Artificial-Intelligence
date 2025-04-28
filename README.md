@@ -59,10 +59,6 @@ This project also has an interactive dashboard built using Dash that allows user
 - Select a model (Logistic Regression, Random Forest, SVM) and view its Confusion Matrix or ROC Curve.
 - Compare model performance metrics through an easy-to-use interface.
 
-Machine Learning 
-> Supervised Learning
--- Regression
-
 ### ◇ Project 2
 
 # 📈 Stock Price Prediction Using Machine Learning
